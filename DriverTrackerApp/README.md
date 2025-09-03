@@ -21,5 +21,6 @@ Files included:
 - app/src/main/res/layout/activity_main.xml : UI layout
 - app/src/main/AndroidManifest.xml
 - build.gradle, settings.gradle
+- 
 - placeholder app/google-services.json (replace with your file)
 - .github/workflows/android.yml (template)
