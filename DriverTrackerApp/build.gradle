@@ -1,14 +1,10 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
-buildscript {
-    dependencies {
-        classpath 'com.google.gms:google-services:4.3.15' // or latest
-    }
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services' // ADD THIS AT BOTTOM
 }
 
-allprojects {
-    repositories {
-        google()
-        mavenCentral()
-    }
+dependencies {
+    // Firebase dependencies
+    implementation platform('com.google.firebase:firebase-bom:32.3.1') // or latest
+    implementation 'com.google.firebase:firebase-analytics' // example
 }
-
