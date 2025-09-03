@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209651604424",
+    "project_id": "drivertracker-8a05a",
+    "storage_bucket": "drivertracker-8a05a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209651604424:android:72b16f8f7151db58ca3efd",
+        "android_client_info": {
+          "package_name": "AndroidManifest.xml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2shGz9a40bc6H3fgvvKbPgQqgVXL5xvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
